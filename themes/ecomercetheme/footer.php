@@ -29,10 +29,10 @@
   <div class="cell large-auto">
   <h3>home</h3>
   <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-  <li>Milk</li>
+  <li>Community</li>
+  <li>Newsroom</li>
+  <li>Health&Safety</li>
+  <li>Teams Member</li>
 </ul>
   </div>
   <div class="cell large-auto">
