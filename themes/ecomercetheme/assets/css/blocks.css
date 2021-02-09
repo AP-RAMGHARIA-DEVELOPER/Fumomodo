@@ -1,0 +1,24 @@
+.alignwide{
+width: 75%;
+margin: 0 auto;
+}
+
+.alignfull {
+
+    width:  90%;
+    width: 0 auto;
+}
+
+.has-magenta-background-color {
+    background-color: #a156b4;
+}
+.has-magenta-color {
+    color: #a156b4;
+}
+
+.has-blue-background-color {
+    background-color: #768496;
+}
+.has-blue-color {
+    color: #768496;
+}
