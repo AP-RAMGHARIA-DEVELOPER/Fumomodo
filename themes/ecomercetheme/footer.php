@@ -48,10 +48,10 @@
   <div class="cell large-auto">
   <h3>home</h3>
   <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-  <li>Milk</li>
+  <li>Newsroom</li>
+  <li>Food Safety</li>
+  <li>Team Member</li>
+  <li>Returns</li>
 </ul>
   </div>
 </div>
