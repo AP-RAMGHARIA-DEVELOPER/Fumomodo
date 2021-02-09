@@ -45,9 +45,15 @@
 </ul>
   </div>
   
+  <div class="cell large-auto">
+  <h3>home</h3>
   <ul>
-  <li>jatt</li>
-  </ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+  <li>Milk</li>
+</ul>
+  </div>
 </div>
 		</div>
 
