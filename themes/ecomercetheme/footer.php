@@ -10,8 +10,6 @@
  */
 
 ?>
-
-
   <div class="grid-x grid-margin-x my_footer">
     <div class="cell small-12">
 	<footer id="colophon" class="site-footer">
