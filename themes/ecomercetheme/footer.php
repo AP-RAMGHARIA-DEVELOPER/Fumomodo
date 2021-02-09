@@ -38,10 +38,10 @@
   <div class="cell large-auto">
   <h3>home</h3>
   <ul>
-  <li>jatt</li>
-  <li>Tea</li>
-  <li>Milk</li>
-  <li>Milk</li>
+  <li>Customer Care</li>
+  <li>Food Safety</li>
+  <li>Returns</li>
+  <li>Accessibilty</li>
 </ul>
   </div>
   
