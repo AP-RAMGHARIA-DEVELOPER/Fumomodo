@@ -18,7 +18,7 @@
 
 	<div class="grid-x fot_links">
   <div class="cell large-auto">
-	  
+  <h3>home</h3>
   <ul>
   <li>Coffee</li>
   <li>Tea</li>
@@ -27,7 +27,7 @@
 </ul>
   </div>
   <div class="cell large-auto">
-  
+  <h3>home</h3>
   <ul>
   <li>Coffee</li>
   <li>Tea</li>
@@ -36,7 +36,7 @@
 </ul>
   </div>
   <div class="cell large-auto">
-  
+  <h3>home</h3>
   <ul>
   <li>jatt</li>
   <li>Tea</li>
