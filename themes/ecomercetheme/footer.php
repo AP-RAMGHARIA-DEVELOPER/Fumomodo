@@ -20,10 +20,10 @@
   <div class="cell large-auto">
   <h3>home</h3>
   <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-  <li>Milk</li>
+  <li>Customer Care</li>
+  <li>Food Safety</li>
+  <li>Returns</li>
+  <li>Contact Us</li>
 </ul>
   </div>
   <div class="cell large-auto">
