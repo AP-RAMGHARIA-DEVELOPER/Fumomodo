@@ -1090,3 +1090,8 @@ div.wpforms-container-full .wpforms-form input[type=submit], div.wpforms-contain
     padding: 10px 15px;
     margin-left: 460px;
 }
+
+.alignfull {
+    width: 100%;
+    width: 0 auto;
+}
