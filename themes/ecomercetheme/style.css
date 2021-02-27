@@ -1092,3 +1092,10 @@ h1, .h1 {
     
     margin-left: 420px;
 }
+
+div.wpforms-container-full .wpforms-form .wpforms-submit-container {
+    padding: 10px 0 0 0;
+    clear: both;
+    position: relative;
+    margin-left: 680px;
+}
