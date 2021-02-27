@@ -1071,26 +1071,10 @@ h1, .h1 {
     z-index: 9;
 }
 
-div.wpforms-container-full .wpforms-form .wpforms-field {
-    padding: 10px 0;
-    clear: both;
-    margin-left: 420px;
-}
+#wpforms-91-field_1{
 
-div.wpforms-container-full .wpforms-form textarea.wpforms-field-medium {
-    height: 120px;
-    width: 60%;
+	margin-left: 420px;
 }
-
-div.wpforms-container-full .wpforms-form input[type=submit], div.wpforms-container-full .wpforms-form button[type=submit], div.wpforms-container-full .wpforms-form .wpforms-page-button {
-    background-color: #eee;
-    border: 1px solid #ddd;
-    color: #333;
-    font-size: 1em;
-    padding: 10px 15px;
-    margin-left: 460px;
-}
-
 .alignfull {
 
     max-width: 100%;
