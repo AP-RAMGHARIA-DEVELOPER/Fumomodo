@@ -1070,3 +1070,9 @@ h1, .h1 {
     font-size: .857em;
     z-index: 9;
 }
+
+div.wpforms-container-full .wpforms-form .wpforms-field {
+    padding: 10px 0;
+    clear: both;
+    margin-left: 420px;
+}
