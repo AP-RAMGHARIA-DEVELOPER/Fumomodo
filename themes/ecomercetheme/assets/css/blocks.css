@@ -5,11 +5,14 @@ margin: 0 auto;
 
 .alignfull {
 
-    width:  100%;
-    width: 0 auto;
+    max-width: 100%;
+    width: 100%;
 }
 
+.is-style-default {
 
+    width: 100%;
+}
 
 .has-magenta-background-color {
     background-color: #a156b4;
