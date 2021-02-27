@@ -1076,3 +1076,8 @@ div.wpforms-container-full .wpforms-form .wpforms-field {
     clear: both;
     margin-left: 420px;
 }
+
+div.wpforms-container-full .wpforms-form textarea.wpforms-field-medium {
+    height: 120px;
+    width: 60%;
+}
