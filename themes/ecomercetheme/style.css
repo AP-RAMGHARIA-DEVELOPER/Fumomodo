@@ -1034,9 +1034,19 @@ h1, .h1 {
     margin-left: 15px;
 }
 
-  .woocommerce ul.products li.product h3 {
+
+.woocommerce ul.products li.product .woocommerce-loop-category__title, .woocommerce ul.products li.product .woocommerce-loop-product__title, .woocommerce ul.products li.product h3 {
     padding: .5em 0;
     margin: 0;
     font-size: 1em;
     margin-left: 15px;
+}
+
+.woocommerce ul.products li.product .price {
+    color: #77a464;
+    display: block;
+    font-weight: 400;
+    margin-bottom: .5em;
+	font-size: .857em;
+	margin-left: 15px;
 }
