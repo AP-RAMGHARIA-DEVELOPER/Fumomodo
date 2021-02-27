@@ -27,3 +27,17 @@ margin: 0 auto;
 .has-blue-color {
     color: #768496;
 }
+
+div.wpforms-container-full .wpforms-form textarea.wpforms-field-medium {
+    height: 120px;
+    width: 60%;
+}
+
+div.wpforms-container-full .wpforms-form input[type=submit], div.wpforms-container-full .wpforms-form button[type=submit], div.wpforms-container-full .wpforms-form .wpforms-page-button {
+    background-color: #eee;
+    border: 1px solid #ddd;
+    color: #333;
+    font-size: 1em;
+    padding: 10px 15px;
+    margin-left: 460px;
+}
