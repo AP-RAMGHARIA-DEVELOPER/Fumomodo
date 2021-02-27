@@ -5,7 +5,12 @@ margin: 0 auto;
 
 .alignfull {
 
-    width:  90%;
+    width:  100%;
+    width: 0 auto;
+}
+
+.alignfull {
+    width: 100%;
     width: 0 auto;
 }
 

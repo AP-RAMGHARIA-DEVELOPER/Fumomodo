@@ -1092,6 +1092,6 @@ div.wpforms-container-full .wpforms-form input[type=submit], div.wpforms-contain
 }
 
 .alignfull {
-    width: 100%;
+    width: 100% !important;
     width: 0 auto;
 }
