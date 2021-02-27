@@ -1103,3 +1103,8 @@ div.wpforms-container-full .wpforms-form .wpforms-submit-container {
 #wpforms-192-field_1-container{
     margin-left: 420px;
 }
+
+.h2 {
+    font-size: 2.5rem;
+    text-align: center;
+}
