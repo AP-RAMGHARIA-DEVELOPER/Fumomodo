@@ -1117,6 +1117,7 @@ article#post-186 {
     text-align: center;
 }
 
+
 #post-184{
     
     text-align: center;
@@ -1141,4 +1142,14 @@ article#post-186 {
 #post-174{
 
     text-align: center;
+}
+
+.woocommerce table.shop_table {
+    border: 1px solid rgba(0,0,0,.1);
+    margin: 0 -1px 24px 0;
+    text-align: left;
+    width: 60%;
+    border-collapse: separate;
+    border-radius: 5px;
+    margin-left: 300px;
 }
