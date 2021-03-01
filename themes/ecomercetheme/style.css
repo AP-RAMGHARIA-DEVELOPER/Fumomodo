@@ -1193,3 +1193,8 @@ p {
     color: #fff;
     -webkit-font-smoothing: antialiased;
 }
+
+.woocommerce .cart-collaterals .cart_totals, .woocommerce-page .cart-collaterals .cart_totals {
+    width: 100%;
+    
+}
