@@ -1186,3 +1186,10 @@ p {
 		align-items: center;
 		margin-left: 420px;
 	}
+
+
+.woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt {
+    background-color: red;
+    color: #fff;
+    -webkit-font-smoothing: antialiased;
+}
