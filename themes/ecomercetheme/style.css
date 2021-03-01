@@ -1174,3 +1174,7 @@ p {
 .woocommerce-info {
     border-top-color: red;
 }
+
+.woocommerce-info a {
+	color: red;
+	}
