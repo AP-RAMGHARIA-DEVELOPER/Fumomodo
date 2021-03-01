@@ -1153,3 +1153,12 @@ article#post-186 {
     border-radius: 5px;
     margin-left: 300px;
 }
+
+
+p {
+    margin-bottom: 1rem;
+    font-size: inherit;
+    line-height: 1.6;
+    text-rendering: optimizeLegibility;
+    text-align: center;
+}
