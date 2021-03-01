@@ -1170,3 +1170,7 @@ p {
     padding: 0;
     margin-left: 300px;
 }
+
+.woocommerce-info {
+    border-top-color: red;
+}
