@@ -213,6 +213,12 @@ add_action( 'wp_enqueue_scripts', 'e_comercetheme_scripts' );
 require get_template_directory() . '/inc/template-tags.php';
 
 /**
+ * Custom post type additions.
+ */
+require get_template_directory() . '/inc/post-types.php';
+
+
+/**
  * Functions which enhance the theme by hooking into WordPress.
  */
 require get_template_directory() . '/inc/template-functions.php';
