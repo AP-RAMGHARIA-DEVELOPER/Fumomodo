@@ -1216,6 +1216,12 @@ p {
 		color: white;
 }
 
-
+.wp-block-buttons {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    text-align: center;
+    margin-left: 9.5rem;
+}
 
 }
