@@ -1210,6 +1210,8 @@ p {
 
 @media only screen and (max-width: 768px) {
 
+	 /* logo title adjustment*/
+
 	.site-title {
     
 		margin-left: 1rem;	   
