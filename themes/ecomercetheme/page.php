@@ -12,6 +12,7 @@
  * @package e-comerce-theme
  */
 
+
 get_header();
 ?>
 

@@ -1207,3 +1207,15 @@ p {
 .entry-footer a{
     color: black;
 }
+
+@media only screen and (max-width: 768px) {
+
+	.site-title {
+    
+		margin-left: 1rem;	   
+		color: white;
+}
+
+
+
+}
