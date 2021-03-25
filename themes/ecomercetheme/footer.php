@@ -28,6 +28,15 @@ $recipe_args = array(
        
         ?>
        <h2><?php the_title();?></h2>
+
+       <section class="entry-content">
+        <?php the_excerpt(); ?>
+    	</section>
+		<section class="entry-content">
+			<?php the_post_thumbnail(); ?>
+		</section>
+
+    
        <?php
         
         
