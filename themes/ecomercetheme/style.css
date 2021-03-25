@@ -1024,12 +1024,14 @@ textarea {
 }
 
 
+/* h1 margin adjustment */
+
 h1, .h1 {
     font-size: 3rem;
 	text-align: center;
 	margin-top: 15px;
 }
-
+/* woocomerce product and button  margin adjustments */
 .woocommerce ul.products li.product .button {
     margin-top: 1em;
     margin-left: 15px;
