@@ -1004,7 +1004,7 @@ textarea {
 	
 
 }
-
+/* site title margin and color adjustment */
 .site-title{
 
 	margin-left: 150px;
@@ -1013,6 +1013,7 @@ textarea {
 	
 }
 
+/* nav adjustments */
 .main-navigation{
 
     margin-top: 4.5px;
