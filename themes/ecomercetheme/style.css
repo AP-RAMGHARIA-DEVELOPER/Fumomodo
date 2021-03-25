@@ -1043,6 +1043,7 @@ h1, .h1 {
     margin-left: 15px;
 }
 
+/* woocomerce li margin adjustments*/
 .woocommerce ul.products li.product .price {
     color: #77a464;
     display: block;
