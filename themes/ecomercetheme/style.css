@@ -1179,6 +1179,7 @@ p {
 	color: red;
 	}
 
+	/* woocomerce payment margin adjustments*/
 	#add_payment_method .wc-proceed-to-checkout, .woocommerce-cart .wc-proceed-to-checkout, .woocommerce-checkout .wc-proceed-to-checkout {
 		padding: 1em 0;
 		width: 40%;
