@@ -1233,4 +1233,8 @@ p {
 	.main-navigation li{
 		margin-left: 10.5rem;
 	}
+	.fot_links {
+		margin-left: 40rem;
+		text-decoration: none;
+	}
 }
