@@ -1194,6 +1194,8 @@ p {
     -webkit-font-smoothing: antialiased;
 }
 
+/* woocomerce cart width adjustments*/
+
 .woocommerce .cart-collaterals .cart_totals, .woocommerce-page .cart-collaterals .cart_totals {
     width: 100%;
     
