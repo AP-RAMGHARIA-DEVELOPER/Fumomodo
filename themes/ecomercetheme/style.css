@@ -1163,6 +1163,7 @@ p {
     text-align: center;
 }
 
+/* woocomerce payment margin adjustments*/
 
 #add_payment_method .cart-collaterals .cart_totals table, .woocommerce-cart .cart-collaterals .cart_totals table, .woocommerce-checkout .cart-collaterals .cart_totals table {
     border-collapse: separate;
