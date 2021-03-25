@@ -974,23 +974,27 @@ textarea {
 	background-color: black;
 }
 
+/* nav color adjustments */
 
 .my_nav{
 
 	background-color: black;
 }
+/* footer color adjustments */
 
 .my_footer{
 
     background-color: grey;
 }
 
+/* fotter links margin */
 
 .fot_links{
 
 	margin-left: -100px;
 }
 
+/* fotter margin  adjustments */
 .fot_name{
 
 	margin-left: -100px;
