@@ -15,35 +15,41 @@
 
 $recipe_args = array(
 
-    'post_type'=>'sampletheme_recipe',
+    'post_type'=>'sampletheme_clothing',
     'posts_per_page'=>3,
-)
+);
 
-    $recipe_query = new WP_Query($recipe_args);
+    $clothing_query = new WP_Query($clothing_args);
 
 
-    if($recipe_query->have_posts()){
-        while($recipe_query->have_posts()){
-            $recipe_query->the_post()
+    if($clothing_query->have_posts()){
+        while($clothing_query->have_posts()){
+            $clothing_query->the_post()
        
         ?>
        <h2><?php the_title();?></h2>
 
-       <section class="entry-content">
+       
+        <section class="entry-content">
         <?php the_excerpt(); ?>
     	</section>
 		<section class="entry-content">
 			<?php the_post_thumbnail(); ?>
 		</section>
 
-    
+               <?php $postType = get_post_type();
+				echo '<a href="' . get_post_type_archive_link($postType) . '">Visit Post</a>';
+				?>
+
        <?php
+        
+            
+            
         
         
         }
     }
 ?>
-
 
   <div class="grid-x grid-margin-x my_footer">
     <div class="cell small-12">
